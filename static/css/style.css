@@ -1,0 +1,24 @@
+body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.orange {
+	color: rgb(244, 137, 66);
+}
+
+.green {
+	color: rgb(46, 219, 74);
+}
+
+.lead {
+	font-size: 2em;
+}
+
+.author {
+	font-size: 1em;
+	text-transform: uppercase;
+}
+
+.jumbotron {
+	margin: 50px;
+}
